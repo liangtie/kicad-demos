@@ -2,9 +2,11 @@
 
 ## PCB projects
 
+### General Projects
+
 1. https://github.com/Agustin586/Fuente_Alimentacion
 
-2. https://github.com/miller-rafal/mcuboard_hw
+2. https://github.com/pfroud/jeopardy-buzzer-controller
 
 3. https://github.com/MiCyg/MIDISplitter
 
@@ -12,7 +14,9 @@
 
 5. https://github.com/s-a-usman/STM32_BluePill
 
-6. https://github.com/pfroud/jeopardy-buzzer-controller
+### Recommended
+
+1. https://github.com/miller-rafal/mcuboard_hw
 
 ## Libraries
 
